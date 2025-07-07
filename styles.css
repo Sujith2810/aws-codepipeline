@@ -1,9 +1,9 @@
 
 body {
   font-family: sans-serif;
-  text-align: left;
-  margin-top: 250px;
-  background-color: #2b1582;
+  text-align: right;
+  margin-top: 200px;
+  background-color: hwb(83 8% 49%);
 }
 
 h1 {
